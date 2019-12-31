@@ -1,0 +1,3 @@
+tkinter
+pyaudio
+speech_recognition
